@@ -1,4 +1,4 @@
-roperties([gitLabConnection('ADOP Gitlab')])
+properties([gitLabConnection('ADOP Gitlab')])
 
 node('docker') {
 
